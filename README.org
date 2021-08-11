@@ -1,0 +1,7 @@
+#+TITLE: dmenu
+#+AUTHOR: lgrabinski
+#+EMAIL:  lgrabinski@gmail.com
+
+ My fork of dmenu from suckless
+ 
+* patches 

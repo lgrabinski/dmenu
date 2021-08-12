@@ -10,3 +10,4 @@
   - fuzzymatch
   - numbers
   - grid
+  - border

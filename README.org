@@ -5,3 +5,4 @@
  My fork of dmenu from suckless
  
 * patches 
+  - xresources

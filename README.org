@@ -8,3 +8,5 @@
   - xresources
   - center
   - fuzzymatch
+  - numbers
+  - grid
